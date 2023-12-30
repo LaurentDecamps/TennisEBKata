@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Tennis-Refactoring-Kata.v3.ncrunchsolution
